@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=blue&center=true&vCenter=true&width=435&lines=Hey..+I'm+Raj;This+is..;..my+Github..;" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=blue&center=true&vCenter=true&width=435&lines=Hey..+I'm+Roshan;This+is..;..my+Github..;" alt="Typing SVG"/>
 </div>
 
 Software Engineer with Bachelor’s Degree in Computer Engineering and 69+ years of experience in building scalable, fast web applications including frontend, backend, database, system design, and DevOps.
