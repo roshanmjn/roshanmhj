@@ -43,18 +43,6 @@ Software Developer with Bachelor’s Degree in Computer Application with experie
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roshanmjn&theme=github_dark" alt="Roshan's GitHub Stats"/>
 </div>
 
-#### Further readings:
-<div>
-    
-</div>
-    <a href="https://medium.com/@Roshan_maharjan">
-        <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-    </a>
-     <a href="https://dev.to/Roshanmaharjan">
-        <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
-    </a>
-</div>
-
 <!--
 **roshanmjn/roshanmjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
